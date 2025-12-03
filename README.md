@@ -1,2 +1,2 @@
-# zhisixing-privacy-policy
-Privacy policy for zhisixing iOS app
+# zhisixing-support
+Supporting for zhisixing iOS app
